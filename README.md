@@ -6,12 +6,6 @@ Supermarket site selection is crucial for a new supermarket. In a highly competi
 
 The conditions for supermarket location include: Convenient transportation but low accident rates. High population density and low crime rates. Medium to high household income. Proximity to car parks to ensure convenience, safety, and purchasing power for customers.
 
-# Method Selection
-
-Using K-means clustering can group areas with similar features, identifying regions with market value and different consumer groups. This method helps identify high-potential areas to support supermarket marketing strategies (Kodinariya and Makwana, 2013).
-
-The elbow method determines the optimal number of clusters by calculating the sum of squared errors (SSE) for different K values and plotting the elbow graph to observe the inflection point (Kodinariya and Makwana, 2013).
-
 
 # Datasets
 
